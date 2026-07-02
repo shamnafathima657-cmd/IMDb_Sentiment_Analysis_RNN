@@ -112,7 +112,13 @@ Run locally:
 
 ```bash
 streamlit run app.py
-```
+
+streamlit cloud community link :
+
+```bash
+https://imdbsentimentanalysisrnn-pvkejzivjpc3ctxblyptrf.streamlit.app/
+
+---
 
 ## Future Improvements
 
